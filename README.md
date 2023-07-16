@@ -6,6 +6,7 @@
 ## Approach
 • Explored techniques such as sampling, quantization, image enhancement, edge detection, and image
 segmentation.Utilized these techniques to manipulate, analyze, and extract meaningful information from images.
+
 • Devloped ML model that could classify and segment images based on their respective categories using image segmentation.
 Outcome 
 
